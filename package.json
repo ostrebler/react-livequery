@@ -1,0 +1,36 @@
+{
+  "name": "react-livequery",
+  "version": "1.0.0",
+  "description": "The React client that brings the power of LiveQuery to the modern frontend world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ostrebler/livequery.git"
+  },
+  "keywords": [
+    "query",
+    "action",
+    "live",
+    "client",
+    "mutation",
+    "api",
+    "realtime",
+    "update",
+    "react",
+    "automatic",
+    "socket",
+    "request"
+  ],
+  "author": "ostrebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostrebler/livequery/issues"
+  },
+  "homepage": "https://github.com/ostrebler/livequery#readme",
+  "dependencies": {
+    "react": "^16.11.0"
+  }
+}
